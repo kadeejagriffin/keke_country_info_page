@@ -1,0 +1,27 @@
+body {
+    padding-top: 56px;
+    margin: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+
+#flagBox {
+    margin-top: 20px;
+}
+
+
+#infoBox {
+    margin-top: 20px
+}
+
+
+footer {
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
